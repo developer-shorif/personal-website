@@ -1,0 +1,97 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    margin:0
+}
+.name-color{
+    color:red;
+    font-weight: 700;
+    font-size: 40px;
+    font-family: 'Arial Narrow Bold',
+}
+.module{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 50px;
+    padding: left 2%;
+}
+.module img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(177, 9, 135);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, rgb(18, 62, 206), rgb(228, 8, 173));
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+
+
+}
+.latest-wrok {
+    display: flex;
+text-align: center;
+    
+}
+  
+  .column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+    margin-left: 5%;
+    margin-right: 2%;
+  }
+#one{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    
+}
+#two{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+}
+
+#three{
+    margin-top: 150px;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+}
+
+.middle-text{
+    text-align: center;
+}
+#position{
+    color: gray;
+}
+.testimonial{
+    text-align: center;
+    margin-top: 20px 20px;
+
+}
+#client{
+    font-size: 40px;
+}
+.dilam{
+    background-color: hotpink;
+    padding: 5px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 5px;
+    color: white;
+}
+footer p{
+    color: gray;
+    text-align: center;
+}
